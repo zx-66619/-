@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+pandas
+numpy
+pickle5
+scikit-learn
+matplotlib
+seaborn
+plotly
