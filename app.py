@@ -39,9 +39,10 @@ class AccidentRiskApp:
     def connect_database(self):
         """连接数据库"""
         try:
+            #secrets = st.secrets["mysql"]
             self.db_connection = mysql.connector.connect(
                 host='localhost',
-                user='root',
+                user='streamlit_user',
                 password='123456',
                 database='accident_risk_db',
                 buffered=True  # 添加buffered参数避免未读结果错误
