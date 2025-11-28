@@ -1,0 +1,15 @@
+feature,importance
+curvature,732
+curvature_speed,443
+weather,429
+speed_limit,416
+num_reported_accidents,352
+curvature_night,195
+lighting,150
+public_road,72
+holiday,67
+num_lanes,53
+time_of_day,36
+road_type,28
+road_signs_present,22
+school_season,5
